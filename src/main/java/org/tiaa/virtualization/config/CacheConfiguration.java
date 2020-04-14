@@ -42,6 +42,7 @@ public class CacheConfiguration {
             createCache(cm, org.tiaa.virtualization.domain.User.class.getName());
             createCache(cm, org.tiaa.virtualization.domain.Authority.class.getName());
             createCache(cm, org.tiaa.virtualization.domain.User.class.getName() + ".authorities");
+            createCache(cm, org.tiaa.virtualization.domain.Participant.class.getName());
             // jhipster-needle-ehcache-add-entry
         };
     }
