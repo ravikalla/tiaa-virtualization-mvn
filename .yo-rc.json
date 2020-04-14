@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.tiaa.virtualization"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "monolith",
+    "baseName": "tiaavirtualization",
+    "packageName": "org.tiaa.virtualization",
+    "packageFolder": "org/tiaa/virtualization",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YTYzYjU1MGE0MTc4ZjM4ZThjNTBjNDIzYThiOTA3MTA1YTJlZDJjNTA5YmI2ODFhODk1MjkyMDRhMGU0MjE1YjZjYWVlZTZmYjVlMTNhYjQ3ZjIxNDI4OTNkN2ZjYzQ1NWY2YzVmN2NmZWE1NzhlOTQ3MWZkYjFmNzNlMDZkMDU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "darkly",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1586889811650,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
